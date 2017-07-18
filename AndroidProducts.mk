@@ -13,5 +13,6 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := $(LOCAL_DIR)/aosp_g8341.mk \
-                     $(LOCAL_DIR)/aosp_g8342.mk
-
+                     $(LOCAL_DIR)/aosp_g8342.mk \
+                     $(LOCAL_DIR)/carbon_poplar.mk \
+                     $(LOCAL_DIR)/carbon_poplar_dual.mk
